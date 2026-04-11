@@ -40,19 +40,6 @@
       "author_key": "ABCD1-2026"
     },
     {
-      "id": "ordhek_payer_chap",
-      "title": "Ordhek Payer Chap",
-      "type": "long_book",
-      "cover": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Covers/Payer Chap Cover.png",
-      "chapters": "https://cdn.jsdelivr.net/gh/livekitaab/library@main/Books/Ordhek Payer Chap/Chapter.json",
-      "price": 30,
-      "description": "A gripping mystery in 200 pages",
-      "author": "Pranpriya Nandi",
-      "pages": 180,
-      "upi_id": "arohanchatterjee881@okicici",
-      "author_key": "NANDI-PAYER-CHAP-2026"
-    },
-    {
       "id": "AeFab1",
       "title": "Aesop's Fables 1",
       "type": "long_book",
@@ -77,19 +64,6 @@
       "pages": 180,
       "upi_id": "arohanchatterjee881@okicici",
       "author_key": "AeFab2-2026"
-    },
-    {
-      "id": "Jontrer_Songsar",
-      "title": "Poripati Jontrer Songsar",
-      "type": "short_book",
-      "cover": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Covers/Cover1.png",
-      "file": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Books/JS.lbk",
-      "price": 10,
-      "description": "A gripping mystery in 200 pages",
-      "author": "Shubhankar Babu",
-      "pages": 180,
-      "upi_id": "arohanchatterjee881@okicici",
-      "author_key": "BABU-JS-2026"
     },
     {
       "id": "AeFab3",
@@ -207,32 +181,6 @@
       "pages": 180,
       "upi_id": "arohanchatterjee881@okicici",
       "author_key": "BABU-JS-2026"
-    },
-    {
-      "id": "EMS",
-      "title": "Ek Muhurter Sporsho",
-      "type": "short_book",
-      "cover": "https://cdn.jsdelivr.net/gh/livekitaab/library@main/Covers/CoverEMS.png",
-      "file": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Books/EMS.lbk",
-      "price": 10,
-      "description": "A gripping mystery in 200 pages",
-      "author": "Shubhankar Babu",
-      "pages": 180,
-      "upi_id": "arohanchatterjee881@okicici",
-      "author_key": "BABU-EMS-2026"
-    },
-    {
-      "id": "Sesh_Call",
-      "title": "Sesh Call",
-      "type": "short_book",
-      "cover": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Covers/Cover Frayed.png",
-      "file": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Books/PCO.lbk",
-      "price": 10,
-      "description": "A gripping mystery in 200 pages",
-      "author": "Shubhankar Babu",
-      "pages": 180,
-      "upi_id": "arohanchatterjee881@okicici",
-      "author_key": "BABU-SC-2026"
     }
   ]
 }
