@@ -1,19 +1,6 @@
 {
   "books": [
     {
-      "id": "somoyer",
-      "title": "Somoyer Chabikathi",
-      "type": "long_book",
-      "cover": "https://cdn.jsdelivr.net/gh/achatterjee4561-cyber/library@main/Covers/Cover.png",
-      "chapters": "https://cdn.jsdelivr.net/gh/livekitaab/library@main/Books/Somoyer Chabikathi/Chapter.json",
-      "price": 0,
-      "description": "A thrilling journey through time",
-      "author": "A.Chatterjee",
-      "pages": 350,
-      "upi_id": "arohanchatterjee881@okicici",
-      "author_key": "LIVEKITAAB-SOMOYER-2026"
-    },
-    {
       "id": "sahajpath",
       "title": "Sahaj Path",
       "type": "long_book",
