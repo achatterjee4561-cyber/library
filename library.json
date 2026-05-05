@@ -181,6 +181,32 @@
       "pages": 180,
       "upi_id": "arohanchatterjee881@okicici",
       "author_key": "BABU-JS-2026"
+    },
+    {
+      "id": "TortWind",
+      "title": "The Tortoise and The Wind",
+      "type": "short_book",
+      "cover": "https://cdn.jsdelivr.net/gh/livekitaab/library/Books/Original/CoverTNW.png",
+      "file": "https://cdn.jsdelivr.net/gh/livekitaab/library/Books/Original/1.lbk",
+      "price": 10,
+      "description": "Original",
+      "author": "Team LiveKitaab",
+      "pages": 180,
+      "upi_id": "arohanchatterjee881@okicici",
+      "author_key": "BABU-JS-2026"
+    },
+    {
+      "id": "CrowFire",
+      "title": "The Crow And The Firefly",
+      "type": "short_book",
+      "cover": "https://cdn.jsdelivr.net/gh/livekitaab/library/Books/Original/CoverCNF.png",
+      "file": "https://cdn.jsdelivr.net/gh/livekitaab/library/Books/Original/2.lbk",
+      "price": 10,
+      "description": "Original",
+      "author": "Team LiveKitaab",
+      "pages": 180,
+      "upi_id": "arohanchatterjee881@okicici",
+      "author_key": "BABU-JS-2026"
     }
   ]
 }
